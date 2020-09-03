@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+![fuseprime logo fuse network validators delegate your fuse tokens and earn interest](https://fuseprime.com/wp-content/uploads/2020/08/fuseprime_logo_small.png)
+## Premier Validators on the Fuse.io Network
 
-You can use the [editor on GitHub](https://github.com/fuseprime/fuse_io_validator/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Please read to find out about us, Fuse.io, our validator nodes and how to delegate to them.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Please get in contact with any questions.
 
-### Markdown
+[About Us](https://github.com/fuseprime/fuse_validator/wiki/About-Us)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[About Fuse.io](https://github.com/fuseprime/fuse_validator/wiki/About-Fuse.io)
 
-```markdown
-Syntax highlighted code block
+[Our Validator Nodes](https://github.com/fuseprime/fuse_validator/wiki/Our-Validator-Nodes)
 
-# Header 1
-## Header 2
-### Header 3
+[How To Delegate](https://github.com/fuseprime/fuse_validator/wiki/How-to-Delegate)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fuseprime/fuse_io_validator/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* Website: [fuseprime.com](https://www.fuseprime.com)
+* Email: hello@fuseprime.com
+* Twitter: [@fuseprime1](https://twitter.com/fuseprime1)
